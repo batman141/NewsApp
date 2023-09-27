@@ -1,0 +1,79 @@
+{
+  "status": "ok",
+  "totalResults": 7,
+  "articles": [
+    {
+      "source": { "id": "the-huffington-post", "name": "The Huffington Post" },
+      "author": "Kristen Aiken",
+      "title": "This Tiny Espresso Maker Fits In The Palm Of My Hand, And It's Incredible",
+      "description": "The Wacaco Picopresso is perfect for anyone who travels or doesn't have the counter space or cash for a big, fancy machine.",
+      "url": "https://www.huffpost.com/entry/small-espresso-maker-picopresso_l_64a72a41e4b0e5efaadaa79f",
+      "urlToImage": "https://img.huffingtonpost.com/asset/64f1ffb32400001b006586af.png?cache=5Le869cYRl&ops=1200_630",
+      "publishedAt": "2023-09-06T09:45:05Z",
+      "content": "HuffPost may receive a commission from some purchases made via links on this page. Every item is independently curated by the HuffPost Shopping team. Prices and availability are subject to change.\r\nE… [+6130 chars]"
+    },
+    {
+      "source": {
+        "id": "the-wall-street-journal",
+        "name": "The Wall Street Journal"
+      },
+      "author": "Micah Maidenberg, Tim Higgins",
+      "title": "Elon Musk Borrowed $1 Billion From SpaceX in Same Month of Twitter Acquisition",
+      "description": "Rocket maker has lent the executive money on several occasions over the past few years",
+      "url": "https://www.wsj.com/business/deals/elon-musk-spacex-loan-269a2168?mod=hp_lead_pos1",
+      "urlToImage": "https://images.wsj.net/im-846248/social",
+      "publishedAt": "2023-09-06T01:00:00Z",
+      "content": null
+    },
+    {
+      "source": { "id": "next-big-future", "name": "Next Big Future" },
+      "author": "Brian Wang",
+      "title": "Array of Giant Inflated Space Telescopes to Find Signs of Life in Atmospheres of a Thousand Exoplanets | NextBigFuture.com",
+      "description": "Our current space telescopes have found thousands of exoplanets based upon the slight variation in movement that they cause to the stars they are orbiting,",
+      "url": "https://www.nextbigfuture.com/2023/09/array-of-giant-inflated-space-telescopes-to-find-signs-of-life-in-atmospheres-of-a-thousand-exoplanets.html",
+      "urlToImage": "https://nextbigfuture.s3.amazonaws.com/uploads/2023/09/Screen-Shot-2023-09-05-at-7.21.08-AM-1024x430.jpg",
+      "publishedAt": "2023-09-05T16:27:16Z",
+      "content": "Our current space telescopes have found thousands of exoplanets based upon the slight variation in movement that they cause to the stars they are orbiting, but we have not seen the reflected light fr… [+3864 chars]"
+    },
+    {
+      "source": { "id": "next-big-future", "name": "Next Big Future" },
+      "author": "Brian Wang",
+      "title": "SpaceX Has Launched 61 Missions so Far and Wants 100 for 2023 and Over 140 in 2024 | NextBigFuture.com",
+      "description": "SpaceX has 61 successful launches of Falcon rockets so far in 2023. Elon indicates they will target 10 flights per month for the 4 remaining months of the",
+      "url": "https://www.nextbigfuture.com/2023/09/spacex-has-launched-61-missions-so-far-and-wants-100-for-2023-and-over-140-in-2024.html",
+      "urlToImage": "https://nextbigfuture.s3.amazonaws.com/uploads/2023/09/starships2023.jpeg",
+      "publishedAt": "2023-09-04T17:11:05Z",
+      "content": "SpaceX has 61 successful launches of Falcon rockets so far in 2023. Elon indicates they will target 10 flights per month for the 4 remaining months of the year to hopefully reach 100 launches. They w… [+2201 chars]"
+    },
+    {
+      "source": { "id": "the-next-web", "name": "The Next Web" },
+      "author": "Linnea Ahlgren",
+      "title": "3D-printed rocket engine revs up for orbital launch in Scotland",
+      "description": "Edinburgh-based aerospace startup Skyrora announced yesterday it had commenced a series of full-duration tests of its updated 3D-printed 70kN engine. \r\n\r\nThe new design features an ...",
+      "url": "http://thenextweb.com/news/3d-printed-rocket-engine-revs-up-orbital-launch-scotland",
+      "urlToImage": "https://img-cdn.tnwcdn.com/image/tnw-blurple?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2023%2F06%2F70-kn-engine-1-1-1024x576-1-e1687258568667.jpg&signature=e504e335f8babf0e24721de9198d4fb6",
+      "publishedAt": "2023-06-20T12:00:47Z",
+      "content": "Edinburgh-based aerospace startup Skyrora announced yesterday it had commenced a series of full-duration tests of its updated 3D-printed 70kN engine. \r\nThe new design features an improved engine cool… [+3908 chars]"
+    },
+    {
+      "source": { "id": "new-scientist", "name": "New Scientist" },
+      "author": null,
+      "title": "SpaceX launches Starlink V2 satellites to increase internet capacity",
+      "description": "A new generation of Starlink’s internet satellites will orbit at low altitudes and eventually re-enter Earth’s atmosphere, limiting the amount of clutter in orbit",
+      "url": "https://www.newscientist.com/article/2361798-spacex-launches-starlink-v2-satellites-to-increase-internet-capacity/",
+      "urlToImage": "https://images.newscientist.com/wp-content/uploads/2023/02/28135738/SEI_146185094.jpg",
+      "publishedAt": "2023-02-28T00:00:00Z",
+      "content": "By Chris Stokel-Walker\r\nThe Starlink launch at Cape Canaveral, Florida, on 27 February 2023\r\nSpaceX\r\nA rocket carrying 21 new generation Starlink satellites successfully launched into orbit at 6:13pm… [+2305 chars]"
+    },
+    {
+      "source": { "id": "national-geographic", "name": "National Geographic" },
+      "author": "Nadia Drake",
+      "title": "How these feuding map-makers shaped our fascination with Mars",
+      "description": "One was an artist who loved space. His rival was a bold professional astronomer. Their race to map the red planet sparked decades of science and speculation.",
+      "url": "https://www.nationalgeographic.com/science/2021/02/how-feuding-map-makers-shaped-our-fascination-with-mars.html",
+      "urlToImage": "https://pmdvod.nationalgeographic.com/NG_Video/788/579/smpost_1612381336455.jpg",
+      "publishedAt": "2021-02-17T14:37:21.3706142Z",
+      "content": null
+    }
+  ]
+}
