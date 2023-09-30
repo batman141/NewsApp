@@ -2,7 +2,7 @@ import React, { Component } from "react";
 
 export class NewsItem extends Component {
   defaultUrl =
-    "https://www.google.com/imgres?imgurl=https%3A%2F%2Fresize.indiatvnews.com%2Fen%2Fresize%2Fnewbucket%2F400_-%2F2020%2F11%2Fbreaking-1603159815-1606179737.jpg&tbnid=7YGU2SLnvzrlhM&vet=12ahUKEwiPhYGdq52BAxXzpekKHb0ZByMQMygMegUIARCXAQ..i&imgrefurl=https%3A%2F%2Fwww.indiatvnews.com%2Fnews%2Findia%2Fbreaking-news-live-updates-coronavirus-case-ahmed-patel-death-latest-news-sonia-gandhi-pm-modi-667209&docid=BD81QdWH8AMV-M&w=400&h=224&q=top%20news%20jpg&ved=2ahUKEwiPhYGdq52BAxXzpekKHb0ZByMQMygMegUIARCXAQ";
+    "https://static.toiimg.com/thumb/imgsize-81916,msid-65191600,width-400,resizemode-4/65191600.jpg";
 
   render() {
     let { title, description, imgUrl, newsUrl, author, date, source } =
@@ -11,7 +11,7 @@ export class NewsItem extends Component {
       <div className="my-3">
         <div className="card">
           <img
-            src={!imgUrl ? this.defaultUrl : imgUrl}
+            src={imgUrl ? imgUrl : this.defaultUrl}
             className="card-img-top"
             alt="..."
             height="150px"
